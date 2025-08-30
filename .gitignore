@@ -20,3 +20,14 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+# Ignore temporary files
+*.tmp
+*.bak
+*.cache
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Excel autosave files
+~$*.xlsx
